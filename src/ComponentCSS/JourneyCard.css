@@ -1,0 +1,33 @@
+.cardHeading {
+    font-weight: bolder;
+    font-size: 0.875rem;
+    color: #fff;
+    padding: 13px;
+    margin-top: 7px;
+    margin-right: 10px;
+    text-align: center;
+}
+
+.cardLinks {
+    color: #fff ;
+    text-align: left;
+    font-size: 12px;
+	    padding: 13px;
+    margin-top: 7px;
+    height: 180px;
+    
+}
+
+.list{
+    color: #fff;
+    background-color: #ffffff30;
+    margin-bottom: 8px;
+    border-left: 3px solid #fff;
+    padding: 3px 0px 3px 5px;
+    
+}
+
+a{
+    text-decoration: none;
+    color:#fff !important;
+}

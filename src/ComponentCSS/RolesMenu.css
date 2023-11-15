@@ -1,0 +1,19 @@
+
+
+.linkClass{
+    text-decoration: none;
+    color:black !important;
+    width: 100%;
+}
+
+.menueHeader{
+    background-color: #0070AD !important;
+    color: white !important;
+    font-weight: 500;
+}
+
+.css-16ac5r2-MuiButtonBase-root-MuiListItemButton-root.Mui-selected {
+    color: #fff !important;
+    background-color: #0070AD !important;
+    font-weight: 500;
+}
